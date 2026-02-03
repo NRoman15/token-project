@@ -24,6 +24,8 @@ yarn-error.log*
 
 node_modules
 .env
+Week2HW.sol
+week2homework.sol
 
 # Hardhat files
 /cache
